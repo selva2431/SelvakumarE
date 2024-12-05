@@ -29,7 +29,7 @@
 I aim to leverage my skills as a **Java Full Stack Developer** to design and implement high-quality software solutions while continuously learning and growing in the industry.
 
 📫 **Connect With Me**:  
-- **Email**: selvakumar.e@example.com  
+- **Email**: selvakumarelango2003@gmail.com  
 - **LinkedIn**: [Selvakumar E](https://www.linkedin.com/in/selva-kumar24/)  
 
 ⚡ **Fun Fact**: I thrive on solving problems and exploring new technologies to stay updated in the ever-evolving tech world!
